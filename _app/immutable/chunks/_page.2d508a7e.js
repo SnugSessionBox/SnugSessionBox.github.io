@@ -1,1 +1,0 @@
-const s=!0,t=!1,r=({params:e})=>({slug:e.slug}),o=Object.freeze(Object.defineProperty({__proto__:null,load:r,prerender:!0,ssr:!1},Symbol.toStringTag,{value:"Module"}));export{o as _,r as l,s as p,t as s};
